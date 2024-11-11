@@ -9,6 +9,7 @@
 - [《多任务学习、多场景学习相关论文阅读笔记（2）》](https://zhuanlan.zhihu.com/p/696644357)
 - [《基于深度学习的广告拍卖机制论文阅读笔记（1）》](https://zhuanlan.zhihu.com/p/659320621)
 - [《基于深度学习的广告拍卖机制论文阅读笔记（2）》](https://zhuanlan.zhihu.com/p/659547565)
+- [《基于PID控制器的自动出价》](https://zhuanlan.zhihu.com/p/5929548106)
 - [《基于强化学习的自动出价论文阅读笔记（1）》](https://zhuanlan.zhihu.com/p/682009207)
 - [《基于强化学习的自动出价论文阅读笔记（2）》](https://zhuanlan.zhihu.com/p/682415692)
 - [《基于强化学习的自动出价论文阅读笔记（3）》](https://zhuanlan.zhihu.com/p/684052241)
@@ -16,3 +17,4 @@
 - [《反馈延迟建模论文阅读笔记》](https://zhuanlan.zhihu.com/p/662621218)
 - [《基于深度学习的多触点归因论文阅读笔记》](https://zhuanlan.zhihu.com/p/665186606)
 - [《基于深度学习的多触点归因论文阅读笔记（2）》](https://zhuanlan.zhihu.com/p/677754958)
+- [《PID控制器原理及在预算平滑中的应用》](https://zhuanlan.zhihu.com/p/839437587)
